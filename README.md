@@ -38,4 +38,4 @@
   [clbutl's Profile Here](https://github.com/clbutl)
 
 
-  Deployed Application: N/A
+  Deployed Application: https://express-note-taker-osu.herokuapp.com/
